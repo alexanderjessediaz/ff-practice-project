@@ -1,5 +1,6 @@
 # Web Starter Project [Docs](https://trouthousetech.atlassian.net/l/c/4P0ChT15)
 
+## ff-practice-project
 
 Packages & Components this project uses:
 
@@ -9,4 +10,4 @@ Packages & Components this project uses:
 - Tailwind [Docs](https://tailwindcss.com/docs)
 - Redux Toolkit [Docs](https://redux-toolkit.js.org/introduction/getting-started)
 - React Hook Forms (for Handling & Validating Forms) [Docs](https://react-hook-form.com/api/)
-- React Hot Toast [Docs](https://react-hot-toast.com/docs)
+- React Hot Toast [Docs](https://react-hot-toast.com/docs)# ff-practice-project
