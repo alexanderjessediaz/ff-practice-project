@@ -11,7 +11,6 @@ import { url } from 'inspector';
 const Login = () => {
   const [emailAddress, setEmailAddress] = useState('');
   const [password, setPassword] = useState('');
-  const [message, setMessage] = useState('');
 
   return (
     <>
