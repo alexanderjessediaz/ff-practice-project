@@ -32,7 +32,7 @@
         "./src/lib/*"
       ],
       "@/models/*": [
-        "./src/models/*"
+        "src/model/*"
       ]
     },
     "incremental": true
